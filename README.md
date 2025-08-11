@@ -45,14 +45,10 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_api_key_here
 ▶ Running the Apps
 Run the Q&A App
-bash
-Copy
-Edit
+
 streamlit run app.py
 Run the Image Search App
-bash
-Copy
-Edit
+
 streamlit run vision.py
 🎯 Usage
 Q&A App
@@ -72,9 +68,7 @@ Click "Tell me about the Image".
 See detailed AI analysis or related information.
 
 📂 Project Structure
-bash
-Copy
-Edit
+
 .
 ├── app.py              # Q&A App
 ├── vision.py           # Image Search App
